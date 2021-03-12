@@ -25,3 +25,6 @@ splay-raw /data/Chains.wav "flowdspgst port=54111 ! pulsesink"
 ```
 - /data/Chains.wav is a wav file with 44.1KHz Sample rate, 2 channels, 16bit data width
 - "flowdspgst port=54111 ! pulsesink" is discription of sink
+
+
+script file bug solving.
